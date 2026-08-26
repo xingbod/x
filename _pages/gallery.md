@@ -4,7 +4,7 @@ permalink: /gallery/
 title: gallery
 description: Gallery of the team
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 ## Gallery of the Team
