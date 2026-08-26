@@ -23,19 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/future/";
           },
-        },{id: "nav-gallery",
-          title: "gallery",
-          description: "Gallery of the team",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-novel",
+          title: "novel",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/xingbod.github.io/deepspace_echo/";
+          },
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "Gallery of the team",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
           },
         },{id: "post-welcome-to-my-blog",
         
